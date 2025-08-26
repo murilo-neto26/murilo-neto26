@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou o Murilo Silva
 
 🎓 Estudante do Instituto Federal do Ceará - IFCE (Campus Maranguape)  
-📍 Natural de Maranguape - CE  
+📍 Natural de Fortaleza - CE
 📚 Apaixonado por livros  
 🏐 Fã de um bom jogo de vôlei  
 🧠 Sempre buscando aprender algo novo!
@@ -10,7 +10,7 @@
 
 ## 💻 Sobre mim
 
-Tenho 16 anos e sou uma pessoa curiosa por natureza. Estou explorando o mundo da tecnologia e desenvolvimento, enquanto estudo no IFCE - MPE. Gosto de usar meu tempo livre lendo, jogando vôlei ou descobrindo novas ferramentas e linguagens que podem me ajudar a evoluir como estudante e como pessoa.
+Tenho 15 anos e sou uma pessoa curiosa por natureza. Estou explorando o mundo da tecnologia e desenvolvimento, enquanto estudo no IFCE - MPE. Gosto de usar meu tempo livre lendo, jogando vôlei ou descobrindo novas ferramentas e linguagens que podem me ajudar a evoluir como estudante e como pessoa.
 
 ---
 
