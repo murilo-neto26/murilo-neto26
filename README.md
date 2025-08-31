@@ -24,7 +24,7 @@ Tenho 15 anos e sou uma pessoa curiosa por natureza. Estou explorando o mundo da
 
 ## 📫 Vamos nos conectar!
 
-Você pode me encontrar por aqui mesmo no GitHub. Em breve, adicionarei mais formas de contato e projetos legais para compartilhar com vocês! 😄
+Você pode me encontrar por aqui mesmo no GitHub. Ou no meu instagram muriloneto26! 😄
 
 ---
 
